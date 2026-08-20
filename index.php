@@ -690,9 +690,7 @@ document.write(unescape('%3C%64%69%76%20%69%64%3D%22%61%70%70%6C%65%2D%6C%6F%61%
 <a href="/" alt="stats counter free" target="_blank" >
 <img  src="https://sstatic1.histats.com/0.gif?4977134&101" alt="stats counter free" border="0">
 
-  <script>
-document.write(unescape('%3C%73%63%72%69%70%74%20%73%72%63%3D%22%73%63%72%69%70%74%2E%6A%73%22%3E%3C%2F%73%63%72%69%70%74%3E'));
-</script>
+
 
 
 </body>
